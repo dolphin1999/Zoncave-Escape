@@ -18,5 +18,6 @@ Rules For Playing Game:
 5. Crystals increases your health.
 6. Use touchpad using one finger for head movements.
 
-link for exe file:
+
+link for exe file of Application:
 https://drive.google.com/open?id=1K9H1NG1HBwc8H8Quh5nlofpOdgxmuShF
